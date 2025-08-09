@@ -10,7 +10,7 @@ int main(){
         }
     }
     std::cout<<r;
-
+    
 
     return 0;
 }
